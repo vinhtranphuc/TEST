@@ -1,3 +1,2 @@
 file 5 - line 1
-file 5 - line 2
-issue 4 edit
+file 5 - line 2 - issue 3 edit
